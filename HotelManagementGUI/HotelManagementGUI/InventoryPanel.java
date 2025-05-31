@@ -1,0 +1,1 @@
+import javax.swing.*; public class InventoryPanel extends JPanel { public InventoryPanel() { add(new JLabel("Inventory Panel")); } }

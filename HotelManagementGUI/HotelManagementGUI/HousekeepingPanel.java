@@ -1,0 +1,1 @@
+import javax.swing.*; public class HousekeepingPanel extends JPanel { public HousekeepingPanel() { add(new JLabel("Housekeeping Panel")); } }

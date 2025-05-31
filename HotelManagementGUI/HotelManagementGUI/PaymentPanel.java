@@ -1,0 +1,1 @@
+import javax.swing.*; public class PaymentPanel extends JPanel { public PaymentPanel() { add(new JLabel("Payment Panel")); } }
